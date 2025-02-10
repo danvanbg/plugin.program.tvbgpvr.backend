@@ -62,7 +62,7 @@ try:
     if settings.copy_playlist and os.path.isdir(settings.copy_to_folder):
       pl.save(path=os.path.join(settings.copy_to_folder, pl_name))
 
-except Exception, er:
+except Exception as er:
   log(er, xbmc.LOGERROR)
 
 ### Schedule next run
