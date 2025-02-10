@@ -6,8 +6,8 @@ import json
 import urllib
 #import cPickle
 import requests
-from stream import *
-from utils import *
+from .stream import *
+from .utils import *
 
 reload(sys)  
 sys.setdefaultencoding('utf8')
