@@ -10,7 +10,7 @@
         <summary>TVBG PVR Backend</summary>
         <summary lang="en">TVBG PVR Backend</summary>
         <description lang="en">Autmatically downloads and reorders playlists, adds static IDs, names and logos. 
-        For use with Bulgarian EPGs</description>
+        For use with Bulgarian EPGs in the last version of Kodi</description>
         <disclaimer lang="en">TVBG PVR Backend</disclaimer>
         <language>en</language>
         <platform>all</platform>
