@@ -12,5 +12,6 @@ This is for Kodi versions 20 and above, without using xbmc.python
   b) Set EPG url to:  
     https://is.gd/tvbgepg
     
+*************************************************************************    
 New project: Demo live, full launch in September — https://www.aviotix.eu
-
+*************************************************************************
